@@ -7,5 +7,18 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoeyFlygare/mongoDB-workout-tracker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JoeyFlygare/mongoDB-workout-tracker/issues"
+  },
+  "homepage": "https://github.com/JoeyFlygare/mongoDB-workout-tracker#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongod": "^2.0.0",
+    "mongoose": "^5.11.13"
+  }
 }
